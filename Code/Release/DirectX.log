@@ -1,0 +1,15 @@
+﻿  DXpolygon.cpp
+  image.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  input.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  main.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  Player.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+Player.cpp(238): warning C4554: '&': 演算子の優先順位に問題があります。かっこを使用して優先順位を明確にしてください
+  コード生成しています。
+  All 46 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  コード生成が終了しました。
+  DirectX.vcxproj -> C:\Users\Fice\iCloudDrive\Documents\HAL\DX21\Shooting\Code\Release\DogShootQuin.exe
+  DirectX.vcxproj -> C:\Users\Fice\iCloudDrive\Documents\HAL\DX21\Shooting\Code\Release\DogShootQuin.pdb (Full PDB)
