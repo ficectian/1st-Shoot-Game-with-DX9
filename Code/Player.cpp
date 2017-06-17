@@ -235,7 +235,7 @@ void SHOOT::Update(int fcnt) {
 	if (Player.nHp > 0) {
 		if (GetKeyboardPress(DIK_SPACE)) {
 			for (int i = 0; i < SHOOTNUM; i++) {
-				if (Shoot[i].Flag == HITOFF & notshooting) {
+				if (Shoot[i].Flag == HITOFF && notshooting) {
 					Shoot[i].X = Player.X + Player.Width / 2;
 					Shoot[i].Y = Player.Y + 15;
 					Shoot[i].Flag = HITON;
