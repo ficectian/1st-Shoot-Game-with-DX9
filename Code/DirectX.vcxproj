@@ -93,6 +93,7 @@
     <ClInclude Include="resource.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="DX.cpp" />
     <ClCompile Include="DXpolygon.cpp" />
     <ClCompile Include="image.cpp" />
     <ClCompile Include="input.cpp" />
